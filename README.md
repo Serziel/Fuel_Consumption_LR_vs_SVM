@@ -16,9 +16,9 @@ MODEL: car model
 
 VEHICLE CLASS: e.g. SUV, COMPACT
 
-ENGINE SIZE: e.g. 1.6
+ENGINE SIZE: e.g. 1.6 (litres)
 
-CYLINDERS: numbers of cylinders
+CYLINDERS: number of cylinders
 
 TRANSMISSION: transmission type and number of gears e.g. M5  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A = Automatic  
